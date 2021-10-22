@@ -3,7 +3,6 @@
     width: 22%;
     cursor: pointer;
     position: relative;
-    background-color: #80808024;
 }
 
 .cardBodyMain{
@@ -35,6 +34,7 @@
 
 .displayInfo{
     padding: 1em;
+    background-color: #607d8b6e;
 }
 
 .displayInfo p{
