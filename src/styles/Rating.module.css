@@ -1,0 +1,16 @@
+.stars svg{
+    color: gray;
+    cursor: pointer
+
+}
+
+.stars{
+    color: gray;
+    cursor: pointer
+}
+
+.ratingBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

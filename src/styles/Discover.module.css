@@ -1,0 +1,19 @@
+.imgsWrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.imgsWrapper img{
+    width: 100%;
+}
+
+.mainBody{
+    display: flex;
+    padding: 1em;
+    margin: auto;
+    width: 90%;
+}
+
